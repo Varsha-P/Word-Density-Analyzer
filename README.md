@@ -7,11 +7,7 @@ These are the results for the three example pages:
 
 Enter URL:
 http://edition.cnn.com/2013/06/10/politics/edward-snowden-profile/
-######center nsa controversy
-######nsa replay videos
-      ######answers outcry nsa
-      ######meet nsa leaker
-      ######papers whistleblower nsa
+######center nsa controversy######nsa replay videos######answers outcry nsa######meet nsa leaker######papers whistleblower nsa
       ######patriot center nsa
       ######nsa leaks
       ######nsa controversy
