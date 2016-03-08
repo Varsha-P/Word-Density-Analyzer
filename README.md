@@ -1,6 +1,7 @@
 #WORD DENSITY ANALYSIS
 
-##Goal: Identify topic of the web page or in other words, output tags for a particular web page
+###Goal: Identify topic of the web page or in other words, output tags for a particular web page
+####The repository contains a jar as well as the source code.
 
 These are the results for the three example pages:
 
