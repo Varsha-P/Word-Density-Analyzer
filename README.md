@@ -1,7 +1,6 @@
-##### Word-Density-Analyzer
-VARSHA PATTIPATI
-WORD DENSITY ANALYSIS
+#WORD DENSITY ANALYSIS
 
+##Goal: Identify topic of the web page or in other words, output tags for a particular web page
 
 These are the results for the three example pages:
 
