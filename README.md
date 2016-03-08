@@ -5,29 +5,33 @@ WORD DENSITY ANALYSIS
 
 These are the results for the three example pages:
 
-Enter URL:
+####Enter URL:
 http://edition.cnn.com/2013/06/10/politics/edward-snowden-profile/
-######center nsa controversy######nsa replay videos######answers outcry nsa######meet nsa leaker######papers whistleblower nsa
-      ######patriot center nsa
-      ######nsa leaks
-      ######nsa controversy
-      ######cnn 300x250
-      ######input cnn
+######center nsa controversy
+######nsa replay videos
+######answers outcry nsa
+######meet nsa leaker
+######papers whistleblower nsa
+######patriot center nsa
+######nsa leaks
+######nsa controversy
+######cnn 300x250
+######input cnn
 
 
 
-Enter URL:
+####Enter URL:
 http://www.amazon.com/Cuisinart-CPT-122-Compact-2-Slice-Toaster/dp/B009GQ034C/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1431620315&sr=1-1&keywords=toaster
-compact plastic toaster
-plastic toaster white
-toaster brushed stainless
-conair cuisinart cpt-122
-cuisinart cpt-122 2-slice
-compact plastic toaster
-2-slice toaster
-plastic toaster
-toaster white
-cuisinart cpt-122
+######compact plastic toaster
+######plastic toaster white
+######toaster brushed stainless
+######conair cuisinart cpt-122
+######cuisinart cpt-122 2-slice
+######compact plastic toaster
+######2-slice toaster
+######plastic toaster
+######toaster white
+######cuisinart cpt-122
 
 
 
