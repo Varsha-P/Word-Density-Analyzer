@@ -1,4 +1,4 @@
-# Word-Density-Analyzer
+##### Word-Density-Analyzer
 VARSHA PATTIPATI
 WORD DENSITY ANALYSIS
 
@@ -36,18 +36,18 @@ http://www.amazon.com/Cuisinart-CPT-122-Compact-2-Slice-Toaster/dp/B009GQ034C/re
 
 
 
-Enter URL:
+####Enter URL:
 http://blog.rei.com/camp/how-to-introduce-your-indoorsy-friend-to-the-outdoors/
-introduce indoorsy friend
-indoorsy friend outdoors
-friend outdoors -
-gear review north
-gear review women
-jacket gear review
-indoorsy friend
-friend outdoors
-gear review
-jacket gear
+######introduce indoorsy friend
+######indoorsy friend outdoors
+######friend outdoors -
+######gear review north
+######gear review women
+######jacket gear review
+######indoorsy friend
+######friend outdoors
+######gear review
+######jacket gear
 
 EXECUTION: 
 
